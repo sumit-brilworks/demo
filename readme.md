@@ -3,3 +3,4 @@ how to add the empty directory in the git staged area it can be done by adding t
 git switch branch_name
 
 git checkout branchname
+demo
